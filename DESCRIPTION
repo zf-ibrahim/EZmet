@@ -7,12 +7,6 @@ Author: Zul Fadhli Ibrahim
 Maintainer: Zul Fadhli Ibrahim <zulfbi7@gmail.com>
 Description: Tools to reshape data for meteorology data provided from Department of Environment (DOE) Malaysia.
 Depends: R (>= 2.15.1), XLConnectJars, XLConnect
-<<<<<<< HEAD
-<<<<<<< HEAD
 License: GPL (>= 2)
 =======
-License: GPL (>= 2)
->>>>>>> 8c18e280bd8b558ce776440f8d843d7df44277f0
-=======
-License: GPL (>= 2) 
 >>>>>>> b7e4efb79fbe260df2334ae231f71d27125d1d66
