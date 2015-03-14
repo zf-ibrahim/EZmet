@@ -1,6 +1,5 @@
 metdata <- function(date, jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec) {
   
-
   janmydataco = readWorksheet(jan, sheet = "CO Hourly", startRow = 3, endRow = 34, startCol = 2, endCol = 25)
   janmydatao3 = readWorksheet(jan, sheet = "O3 Hourly", startRow = 3, endRow = 34, startCol = 2, endCol = 25)
   janmydatapm10 = readWorksheet(jan, sheet = "PM10 Hourly", startRow = 3, endRow = 34, startCol = 2, endCol = 25)
